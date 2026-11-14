@@ -1,0 +1,9 @@
+[package]
+name = "test_screen_saver"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+core-foundation = "0.9.4"
+core-foundation-sys = "0.8.7"
+rand = "0.10.3"
