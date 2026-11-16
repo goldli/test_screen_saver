@@ -1,6 +1,6 @@
 # 本程序是测试代码,作用是在macOS 27系统上,在每次退出视频屏保后,将下一次的视频屏保换成另一个.
 ## 要求:
-1. 在 **~/Library/Application Support/com.apple.wallpaper/aerials/videos** 里存放多个 mov 文件. 保留默认的 **4207734D-74FE-4F92-B5E1-6EC8DEE24A15.mov**
+1. 在 **~/Library/Application Support/com.apple.wallpaper/aerials/videos/mov** 里存放多个 mov 文件.
 2. 将普通视频转换为可以识别的mov文件
    
    假设有一个视频文件 abc.mp4. 鼠标右键, 选择 **"服务"** , **"编码所选视频文件"**, 在弹出的窗口中, 将 **“设置”: HEVC 2160P**.
